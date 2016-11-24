@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeddingWCF", "WeddingWCF\WeddingWCF.csproj", "{4AD6146A-0D27-44A2-AD7F-7407E1ED23B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeddingWCFTests", "WeddingWCFTests\WeddingWCFTests.csproj", "{1C17B803-DD17-481A-91D0-40026E40BC59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AD6146A-0D27-44A2-AD7F-7407E1ED23B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AD6146A-0D27-44A2-AD7F-7407E1ED23B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AD6146A-0D27-44A2-AD7F-7407E1ED23B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AD6146A-0D27-44A2-AD7F-7407E1ED23B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C17B803-DD17-481A-91D0-40026E40BC59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C17B803-DD17-481A-91D0-40026E40BC59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C17B803-DD17-481A-91D0-40026E40BC59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C17B803-DD17-481A-91D0-40026E40BC59}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

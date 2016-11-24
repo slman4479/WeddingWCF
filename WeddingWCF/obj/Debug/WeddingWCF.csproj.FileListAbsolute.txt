@@ -1,0 +1,10 @@
+C:\Users\IT\Desktop\Wedding\WeddingWCF\WeddingWCF\WeddingWCF\bin\WeddingWCF.dll.config
+C:\Users\IT\Desktop\Wedding\WeddingWCF\WeddingWCF\WeddingWCF\bin\WeddingWCF.dll
+C:\Users\IT\Desktop\Wedding\WeddingWCF\WeddingWCF\WeddingWCF\bin\WeddingWCF.pdb
+C:\Users\IT\Desktop\Wedding\WeddingWCF\WeddingWCF\WeddingWCF\obj\Debug\WeddingWCF.dll
+C:\Users\IT\Desktop\Wedding\WeddingWCF\WeddingWCF\WeddingWCF\obj\Debug\WeddingWCF.pdb
+C:\Users\IT\Desktop\Wedding\WeddingWCF\WeddingWCF\WeddingWCF\obj\Debug\WeddingWCF.csprojResolveAssemblyReference.cache
+E:\app\Salman\Salman\WeddingWCF\WeddingWCF\WeddingWCF\bin\WeddingWCF.dll
+E:\app\Salman\Salman\WeddingWCF\WeddingWCF\WeddingWCF\bin\WeddingWCF.pdb
+E:\app\Salman\Salman\WeddingWCF\WeddingWCF\WeddingWCF\obj\Debug\WeddingWCF.dll
+E:\app\Salman\Salman\WeddingWCF\WeddingWCF\WeddingWCF\obj\Debug\WeddingWCF.pdb

@@ -1,0 +1,7 @@
+E:\app\Salman\Salman\WeddingWCF\WeddingWCF\WeddingWCFTests\bin\Debug\WeddingWCFTests.dll
+E:\app\Salman\Salman\WeddingWCF\WeddingWCF\WeddingWCFTests\bin\Debug\WeddingWCFTests.pdb
+E:\app\Salman\Salman\WeddingWCF\WeddingWCF\WeddingWCFTests\bin\Debug\WeddingWCF.dll
+E:\app\Salman\Salman\WeddingWCF\WeddingWCF\WeddingWCFTests\bin\Debug\WeddingWCF.pdb
+E:\app\Salman\Salman\WeddingWCF\WeddingWCF\WeddingWCFTests\obj\Debug\WeddingWCFTests.csprojResolveAssemblyReference.cache
+E:\app\Salman\Salman\WeddingWCF\WeddingWCF\WeddingWCFTests\obj\Debug\WeddingWCFTests.dll
+E:\app\Salman\Salman\WeddingWCF\WeddingWCF\WeddingWCFTests\obj\Debug\WeddingWCFTests.pdb
